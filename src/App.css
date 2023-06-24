@@ -1,0 +1,28 @@
+body {
+  
+  
+  height: 3000px;
+  display: flex;
+  flex-direction: column;
+}
+
+.img{
+  background-image: url(/src/Components/bgimg1.png);
+  height: 100vh;
+  width: 100vh;
+}
+
+.link-info {
+  margin-left: auto;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.content {
+  padding-top: 70px; /* Задайте высоту вашего заголовка + отступ сверху */
+}
+
+.carousel {
+  width: 100%;
+  
+}
